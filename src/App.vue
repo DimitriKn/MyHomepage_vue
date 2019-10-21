@@ -27,14 +27,20 @@ export default {
 
 <style>
     body {
-         background-image: url("assets/77.jpg");
+         background-image: url("assets/77.png");
          background-size: cover;
          background-repeat: no-repeat;
          background-attachment: fixed;
 
-
      }
-
+@media only screen and (max-width: 400px) {
+    body {
+        background-image: url("assets/77.png");
+        background-attachment: fixed;
+        background-repeat: no-repeat;
+        background-size: 1000px;
+    }
+}
 
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;

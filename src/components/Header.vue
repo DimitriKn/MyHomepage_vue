@@ -5,7 +5,7 @@
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav10" aria-controls="nav10" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        <div class="collapse navbar-collapse justify-content-md-end" id="nav10">
+        <div class="collapse navbar-collapse justify-content-md-center" id="nav10">
             <a class="navbar-brand" href="#">Web Developer +</a>
             <ul class="navbar-nav">
                 <li class="nav-item ">
@@ -46,10 +46,10 @@
 
 <style scoped>
 .navbar{
- padding: 0.5rem 18rem 0.5rem 0.5rem;
+ padding: 0.5rem 0.5rem 0.5rem 0.5rem;
 }
 .navbar-brand {
-    margin-right: 30rem;
+    margin-right: 10rem;
     font-family: "Forte",sans-serif;
     padding-top: 0;
     padding-bottom: 0;

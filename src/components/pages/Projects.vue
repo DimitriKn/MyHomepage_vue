@@ -12,64 +12,53 @@
                 img-height="480"
                 style="text-shadow: 1px 1px 2px #333;"
         >
-
             <b-carousel-slide
-
             >
                 <template v-slot:img>
                     <img
                             class="d-block  w-100"
                             src="../../assets/agora.png"
                             alt="image slot"
-
                     >
                 </template>
             </b-carousel-slide>
             <b-carousel-slide
-
             >
                 <template v-slot:img>
                     <img
                             class="d-block w-100"
                             src="../../assets/story.png"
                             alt="image slot"
-
                     >
                 </template>
             </b-carousel-slide>
             <b-carousel-slide
-
             >
                 <template v-slot:img>
                     <img
                             class="d-block w-100"
                             src="../../assets/termin.png"
                             alt="image slot"
-
                     >
                 </template>
             </b-carousel-slide>
             <b-carousel-slide
-
             >
                 <template v-slot:img>
                     <img
                             class="d-block  w-100"
                             src="../../assets/Zd.png"
                             alt="image slot"
-
                     >
                 </template>
             </b-carousel-slide>
             <b-carousel-slide
-
             >
                 <template v-slot:img>
                     <img
                             class="d-block  w-100"
                             src="../../assets/App.png"
                             alt="image slot"
-
                     >
                 </template>
             </b-carousel-slide>
